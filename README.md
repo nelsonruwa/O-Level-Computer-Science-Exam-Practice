@@ -1,2 +1,2 @@
-# O-Level-Computer-Science-Exam-Practise
+# O-Level-Computer-Science-Exam-Practice
 Questions and Answers for Typical O Level Computing Examination Questions
